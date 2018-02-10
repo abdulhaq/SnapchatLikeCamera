@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#10ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="link">#0a80d1</color>
+    <color name="timestamp">#a0a3a7</color>   
+    <color name="name">#125688</color>
+    <color name="ActionBarColor">#f13f3f</color>
+    <color name="ImageGridItemBackground">#edeeee</color>
+    <color name="translucent_black_bg">#65000000</color>
+
+    <color name="colorAccent">#FFFF</color>
+    <color name="colorPrimary">#FFFF</color>
+    <color name="colorPrimaryDark">#FFFF</color>
+
+</resources>
